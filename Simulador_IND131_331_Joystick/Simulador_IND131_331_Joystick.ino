@@ -12,6 +12,9 @@
   un peso aleatorio con precisión de 2 decimales.
   
   El peso se refleja en la pantalla LCD del Shield y además se realiza el envío serial para simular ser una IND131.
+  
+  Proyecto en el GitHub de arturonvz (ElZizouSV en otras plataformas):
+  https://github.com/arturonvz/Simulador_IND131_331_Arduino
 */
 
 const int pinJoystick_X = A1;
